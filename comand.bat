@@ -1,1 +1,2 @@
-"C:\Program Files\nodejs\npm.cmd" test
+
+"C:\Program Files\nodejs\npm.cmd" start
